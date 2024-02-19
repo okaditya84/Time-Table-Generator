@@ -1,5 +1,5 @@
 # Timetable Generator Web-Application
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)        ![Django](https://img.shields.io/badge/Made%20with-Django-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64)
+![Django](https://img.shields.io/badge/Made%20with-Django-blue?style=?style=plastic&logo=appveyor&logo=data:image/png;base64)
 
 ###### This was final project with ![Aditya Jethani](https://github.com/okaditya84) for Analysis of Algorithm in Semester 4
 
